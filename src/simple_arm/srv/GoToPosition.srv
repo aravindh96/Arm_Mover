@@ -1,0 +1,4 @@
+float64 joint_1_position
+float64 joint_2_position
+---
+string msg_feedback
