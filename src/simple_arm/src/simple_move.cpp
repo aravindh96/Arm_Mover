@@ -6,7 +6,7 @@ int main(int argc, char** argv)
 {
 
 	//Initialize the arm_mover node
-	ros::init(argc,argv,"arm_mover_1");
+	ros::init(argc,argv,"simple_move");
 
 	//Create a handle for the arm_mover node
 	ros::NodeHandle n;

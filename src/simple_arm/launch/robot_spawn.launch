@@ -25,8 +25,8 @@
       max_joint_2_angle: 1.57
     </rosparam>
   </node>
-<!--
+
   <node name="look_away" pkg="simple_arm" type="look_away">
--->
+
 
 </launch>

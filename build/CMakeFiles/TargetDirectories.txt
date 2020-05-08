@@ -55,6 +55,7 @@
 /home/workspace/catkin_ws/build/simple_arm/CMakeFiles/std_msgs_generate_messages_eus.dir
 /home/workspace/catkin_ws/build/simple_arm/CMakeFiles/roscpp_generate_messages_lisp.dir
 /home/workspace/catkin_ws/build/simple_arm/CMakeFiles/std_msgs_generate_messages_nodejs.dir
+/home/workspace/catkin_ws/build/simple_arm/CMakeFiles/look_away.dir
 /home/workspace/catkin_ws/build/simple_arm/CMakeFiles/simple_arm_generate_messages_lisp.dir
 /home/workspace/catkin_ws/build/simple_arm/CMakeFiles/controller_manager_msgs_generate_messages_lisp.dir
 /home/workspace/catkin_ws/build/simple_arm/CMakeFiles/simple_arm_genpy.dir
